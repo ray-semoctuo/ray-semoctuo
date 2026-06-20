@@ -2,9 +2,11 @@
 
 <img align="left" width="100" height="100" src="RJH.png"> I'm currently working on several projects to support business development and marketing professionals with "Explanatory Visualizations." This includes a Microsoft Excel Add-In as well as custom training materials which focus on the Python libraries Polars and Plotnine. As a long time user of R's tidyverse, I've found Polars and Plotnine to be a superb platform for introducing Python to non-programmers.
 
-In addition to my business activites, I also teach an applied statistical techniques course for the University of Utah's Professional Science Masters program. 
+In addition to my business activities, I also teach an applied statistical techniques course for the University of Utah's Professional Science Masters program. 
 
-The easiest way to reach me is via LinkedIn (https://www.linkedin.com/in/rayjameshoobler/)
+The easiest way to reach me is via [LinkedIn](https://www.linkedin.com/in/rayjameshoobler/) messenger.
+
+[Semoctuo LLC](https://semoctuo.com)
 
 <!--
 **ray-semoctuo/ray-semoctuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
