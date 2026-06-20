@@ -7,6 +7,7 @@ In addition to my business activities, I also teach an applied statistical techn
 The easiest way to reach me is via [LinkedIn](https://www.linkedin.com/in/rayjameshoobler/) messenger.
 
 [Semoctuo LLC](https://semoctuo.com)
+[Ray James Hoobler](https://rayjameshoobler.com)
 
 <!--
 **ray-semoctuo/ray-semoctuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
